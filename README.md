@@ -6,6 +6,11 @@
 
 <div class="image" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Bur-Ham&show_icons=true&theme=radical"></img>
+</div>
+
+<div class="image2" align="center">
+    <br/>
+    <br/>
     <img src="https://discord.c99.nl/widget/theme-3/495099741621846016.png"></img>
 </div>
 

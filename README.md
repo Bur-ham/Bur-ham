@@ -11,7 +11,7 @@
 <div class="image2" align="center">
     <br/>
     <br/>
-    <img src="https://discord.c99.nl/widget/theme-3/495099741621846016.png"></img>
+    <img src="https://discord.c99.nl/widget/theme-2/495099741621846016.png"></img>
 </div>
 
 <!---
